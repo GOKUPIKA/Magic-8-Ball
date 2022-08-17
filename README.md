@@ -6,5 +6,5 @@ Code Link: https://drive.google.com/drive/folders/1LVQM2jwG0wPXinb7iDUm24XZu_U5j
 
 SET UP INSTRUCTION
 
-First access the drive link from where download the file and open that folder in local system.
-Open folder in the flutter envioronment and add the required library for the proper functionality of the code
+* First access the drive link from where download the file and open that folder in local system.
+* Open folder in the flutter envioronment and add the required library for the proper functionality of the code
